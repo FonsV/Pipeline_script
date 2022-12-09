@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Building the project - Made a small change!"
+echo "Building the project"
+echo "Added this extra line!!!"
